@@ -1,0 +1,26 @@
+.var {
+      display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: wheat;
+    align-content:center;
+    padding:20px
+    
+}
+
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+    }
+    
+.s:hover {
+  background-color: black;
+}
+
+   
+.prediction{
+margin-top:40px;
+font-size:35px;
+font-family:bold
+
+}
